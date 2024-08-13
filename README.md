@@ -1,11 +1,9 @@
-<h1 align="left">
-Front-End developer
-Fatec DSM 2/6
-</h1>
+<h1 align="left">About Me</h1>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Front-End developer</p>
+<p align="left">Fatec DSM 2/6</p>
 
 ###
 
