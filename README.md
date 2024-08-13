@@ -1,4 +1,7 @@
-<h1 align="left">About Me</h1>
+<h1 align="left">
+Front-End developer
+Fatec DSM 2/6
+</h1>
 
 ###
 
