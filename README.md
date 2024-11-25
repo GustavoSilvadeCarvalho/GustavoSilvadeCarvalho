@@ -1,16 +1,16 @@
-<h1 align="left">About Me</h1>
+<h1 align="center">About Me</h1>
 
 ###
 
-<p align="left">Front-End developer<br><br>Fatec DSM 2/6</p>
+<p align="center">Front-End developer<br><br>Fatec DSM 2/6</p>
 
 ###
 
-<h1 align="left">Techs</h1>
+<h1 align="center">Techs</h1>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
@@ -32,7 +32,7 @@
 
 ###
 
-<h1 align="left">Stats</h1>
+<h1 align="center">Stats</h1>
 
 ###
 
