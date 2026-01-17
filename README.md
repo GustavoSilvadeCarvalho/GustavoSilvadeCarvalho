@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Front-End developer<br><br>Fatec DSM 4/6</p>
+<p align="center">Front-End developer<br><br>Fatec DSM 5/6</p>
 
 ###
 
